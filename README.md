@@ -6,8 +6,8 @@ MINECRAFTに武器を追加します。
 1. MINECRAFTの「設定」ボタンを押す
 2. 「リソースパック」ボタンを押す
 3. 「パックフォルダーを開く」ボタンを押す
-4. パックフォルダーが開いたら、そこに Hoe Boomerang [ resourcepack ] を入れる
-5. 利用可能の中にある Hoe Boomerang [ resourcepack ] のアイコンをクリックし、「完了」ボタンを押す。
+4. パックフォルダーが開いたら、そこに Weapons [ resourcepack ] を入れる
+5. 利用可能の中にある Weapons [ resourcepack ] のアイコンをクリックし、「完了」ボタンを押す。
 
 ## データパックの導入方法
 
@@ -17,22 +17,22 @@ MINECRAFTに武器を追加します。
 3. 「その他の設定」タブを開く
 4. 「データパック」ボタンを押す
 5. 「パックフォルダーを開く」ボタンを押す
-6. パックフォルダーが開いたら、そこに Hoe Boomerang [ datapack ] を入れる
-7. 利用可能の中にある Hoe Boomerang [ datapack ] のアイコンをクリックし、「完了」ボタンを押す。
+6. パックフォルダーが開いたら、そこに Weapons [ datapack ] を入れる
+7. 利用可能の中にある Weapons [ datapack ] のアイコンをクリックし、「完了」ボタンを押す。
 8. ワールドを作成する
 
 - 既存のワールドに導入する場合
 1. 「シングルプレイ」ボタンを押す
 2. 導入したいワールドを選択し、「編集」ボタンを押す
 3. 「ワールドフォルダーを開く」ボタンを押す
-4. ワールドフォルダーの中の「datapacks」というフォルダーの中に Hoe Boomerang [ datapack ] を入れる
+4. ワールドフォルダーの中の「datapacks」というフォルダーの中に Weapons [ datapack ] を入れる
 
 ## リソースパックを無効化する方法
 
 1. MINECRAFTの「設定」ボタンを押す
 2. 「リソースパック」ボタンを押す
 3. 「パックフォルダーを開く」ボタンを押す
-4. 洗濯中の中にある Hoe Boomerang [ resourcepack ] のアイコンをクリックし、「完了」ボタンを押す。
+4. 洗濯中の中にある Weapons [ resourcepack ] のアイコンをクリックし、「完了」ボタンを押す。
 
 ## データパックを無効化する方法
 
@@ -40,8 +40,8 @@ MINECRAFTに武器を追加します。
 1. 「シングルプレイ」ボタンを押す
 2. 導入したいワールドを選択し、「編集」ボタンを押す
 3. 「ワールドフォルダーを開く」ボタンを押す
-4. ワールドフォルダーの中の「datapacks」というフォルダーの中の Hoe Boomerang [ datapack ] を削除する
+4. ワールドフォルダーの中の「datapacks」というフォルダーの中の Weapons [ datapack ] を削除する
 
 - コマンドが使える場合
 1. 次のコマンドを入力する。
-`/datapack disable "file/Hoe Boomerang [ datapack ].zip"`
+`/datapack disable "file/Weapons [ datapack ].zip"`
