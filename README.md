@@ -1,6 +1,9 @@
 # Weapons
 MINECRAFTに武器を追加します。
 
+YouTubeの紹介動画
+https://youtu.be/RF2SOxXOd-k
+
 ## リソースパックの導入方法
 
 1. MINECRAFTの「設定」ボタンを押す
